@@ -1,0 +1,12 @@
+- name: Posts
+  link: /posts
+- name: Categories
+  link: /categories/
+- name: About & Contact
+  link: /
+- name: HackTheBox
+  link: /category/hackthebox
+- name: TryHackMe
+  link: /category/tryhackme
+- name: HackMyVM
+  link: /category/hackmyvm
